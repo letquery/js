@@ -30,5 +30,5 @@ Non tech contribution are also welcome, if you find a bug in documentation on th
 + [contributors list with avatars](.github/contributor_list.md)
 + [Building the project](.github/test.md)
 + [Test Code](.github/test.md)
-+ [README File](.github/readme.md)
-+ [Release Cycle](.github/readme.md)
++ [README File](.github/edit_readme.md)
++ [Release Cycle](.github/release_cycle.md)

@@ -41,3 +41,9 @@ while paying the maintainers of the exact dependencies you use.
 
 - [Tom Sapletta](https://github.com/tom-sapletta-com)
 
+---
++ [edit](https://github.com/letquery/js/edit/main/.github/readme.md)
++ [git](https://github.com/letquery/js)
+```
+https://github.com/letquery/js.git
+```
