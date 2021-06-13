@@ -2,9 +2,6 @@
 
 
 
-
-
-
 ## Install
 
 ```
@@ -33,7 +30,7 @@ With those benefits Your organisation and customers have such benefits:
 
 while paying the maintainers of the exact dependencies you use.
 
-[Learn more.](https://tidelift.com/subscription/pkg/npm-file-type?utm_source=npm-let-query&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
+[Learn more.](https://tidelift.com/subscription/pkg/npm-let-query?utm_source=npm-let-query&utm_medium=referral&utm_campaign=enterprise&utm_term=repo)
 
 
 ## Related
