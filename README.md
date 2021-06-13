@@ -1,5 +1,4 @@
-# js.letquery.com
-
+# [js.letquery.com](https://js.letquery.com/#/)
 
 
 ## Install
